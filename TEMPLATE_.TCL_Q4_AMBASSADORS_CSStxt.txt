@@ -1,0 +1,482 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- Facebook sharing information tags -->
+    <meta property="og:title" content="{{Subject}}" />
+
+    <title>{{Subject}}</title>
+</head>
+
+<body bgcolor="#FAFAFA" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; height: 100% !important; width: 100% !important; background-color: #FAFAFA; margin: 0; padding: 0;">
+<style type="text/css">#outlook a {
+            padding: 0;
+        }
+        
+        .body {
+            width: 100% !important;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .ExternalClass {
+            width: 100%;
+        }
+        
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+        
+        img {
+            outline: none;
+            text-decoration: none;
+            -ms-interpolation-mode: bicubic;
+        }
+        
+        a img {
+            border: none;
+        }
+        
+        p {
+            margin: 1em 0;
+        }
+        
+        table td {
+            border-collapse: collapse;
+        }
+        /* hide unsubscribe from forwards*/
+        
+        blockquote .original-only,
+        .WordSection1 .original-only {
+            display: none !important;
+        }
+        
+        ul {
+            list-style: none;
+        }
+        
+        li {
+            padding-left: 1em;
+            text-indent: -.7em;
+        }
+        
+        .list {
+            font-family: Lato !important;
+        }
+        
+        .list::before {
+            font-size: 20px !important;
+            content: "▪ " !important;
+            color: #16a0c0 !important;
+        }
+        
+        .list2 {
+            font-weight: normal !important;
+            font-family: Lato;
+            text-indent: 0em;
+            padding-left: 0em;
+        }
+        
+        .Ul2 {
+            padding-inline-start: 0px !important;
+        }
+        
+        @media only screen and (max-width: 480px) {
+            body,
+            table,
+            td,
+            p,
+            a,
+            li,
+            blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+            /* Prevent Webkit platforms from changing default text sizes */
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+            /* Prevent iOS Mail from adding padding to the body */
+            #bodyCell {
+                padding: 10px !important;
+            }
+            #templateContainer {
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+            h1 {
+                font-size: 24px !important;
+                line-height: 100% !important;
+            }
+            h2 {
+                font-size: 20px !important;
+                line-height: 100% !important;
+            }
+            h3 {
+                font-size: 18px !important;
+                line-height: 100% !important;
+            }
+            h4 {
+                font-size: 16px !important;
+                line-height: 100% !important;
+            }
+            #templatePreheader {
+                display: none !important;
+            }
+            /* Hide the template preheader to save space */
+            #headerImage {
+                height: auto !important;
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+            .headerContent {
+                font-size: 20px !important;
+                line-height: 125% !important;
+            }
+            #bodyImage {
+                height: auto !important;
+                max-width: 560px !important;
+                width: 100% !important;
+            }
+            .bodyContent {
+                font-size: 18px !important;
+                line-height: 125% !important;
+            }
+            .templateColumnContainer {
+                display: block !important;
+                width: 100% !important;
+            }
+            .columnImage {
+                height: auto !important;
+                max-width: 260px !important;
+                width: 100% !important;
+            }
+            .leftColumnContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+            .rightColumnContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+            .footerContent {
+                font-size: 14px !important;
+                line-height: 115% !important;
+            }
+            .footerContent a {
+                display: block !important;
+            }
+            /* Place footer social and utility links on their own lines, for easier access */
+            .images1 {
+                width: 150px;
+                height: 150px;
+                border-width: 0px;
+                border-style: solid;
+                float: left;
+                padding-right: 20px;
+            }
+        }
+</style>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="bodyTable" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FAFAFA; border-collapse: collapse !important; height: 100% !important; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0; width: 100% !important" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" id="bodyCell" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; height: 100% !important; width: 100% !important; border-top-width: 4px; border-top-color: #dddddd; border-top-style: solid; margin: 0; padding: 20px;" valign="top"><!-- BEGIN TEMPLATE // -->
+			<table border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important; width: 1024px;">
+				<tbody>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN HEADER // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateHeader" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+							</tbody>
+						</table>
+						<!-- // END HEADER --></td>
+					</tr>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN BODY // -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateBody" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr pardot-repeatable="">
+									<td align="left" class="bodyContent" pardot-region="body_content00" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica; font-size: 16px; line-height: 24px; text-align: left; padding: 20px;" valign="top">
+									<h1 style="color: #202020 !important; display: block; font-family: Helvetica; font-size: 26px; font-style: normal;float: left;width: 50%; font-weight: bold; letter-spacing: normal; line-height: 26px; margin: 0; padding-bottom:10px; text-align: left;  "><a href="https://thecustomerlink.be/"><img alt="" border="0" height="104" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22m3v/879022/1604318536rVjQaAVp/logo_horizontaal_01_kopie.png" style="width: 300px; height: 104px; border-width: 0px; border-style: solid;" width="300"></a>​​​​</h1>
+
+									<p style="float: left; width: 25%; text-align: center;line-height: 6;"><a href="https://thecustomerlink.be/en/salesforce-implementation-partner/" style="font-family: ubuntu;text-decoration: none; font-size: 21px; color: #212331;">About</a></p>
+
+									<p style="float:right; width: 25%; text-align: center;line-height: 6;"><a href="https://thecustomerlink.be/en/contact" style="font-family: ubuntu;text-decoration: none;font-size: 21px; color: #212331;">Contact</a></p>
+									</td>
+								</tr>
+								<tr pardot-repeatable="">
+									<td align="left" class="bodyContent" pardot-region="body_content01" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #505050; font-family: Helvetica; font-size: 16px; line-height: 24px; text-align: left; padding: 0 0px;"><img alt="" border="0" height="407" src="https://hello.thecustomerlink.be/l/879022/2020-11-17/33894i/879022/1605611177YeA54h2U/TCL_Header_Banner.png" style="width: 1024px; height: 407px; border-width: 0px; border-style: solid;" width="1024"></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END BODY --></td>
+					</tr>
+					<tr>
+						<td align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top"><!-- BEGIN COLUMNS // -->
+						<table border="0" cellpadding="20" cellspacing="0" id="templateColumns" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style: solid; border-bottom-width: 1px; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt" width="100%">
+							<tbody>
+								<tr pardot-repeatable="">
+									<td align="left" style="padding-bottom: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;width: 50%;" valign="top">
+									<table align="right " border="0 " cellpadding="0 " cellspacing="0 " class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                                                0pt; border-collapse: collapse !important; display: inline; width: 100%; ">
+										<tbody>
+											<tr>
+												<td align="left " class="rightColumnContent" pardot-region="right_column_content " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                                                0pt; color: #505050; font-family: Lato; font-size: 14px; line-height: 21px; text-align: left; padding: 0 0 20px; " valign="top ">
+												<h1 style="color: #16a0c0 !important; display: block; font-family: Ubuntu; font-size: 36px; font-weight: normal; letter-spacing: normal; line-height: 36px; margin: 0; padding-bottom:10px;
+                                                                                text-align: left ">TCL’s elevator session</h1>
+
+												<h2 style="color: #212331 !important; display: block; font-family: Ubuntu; font-size: 20px; font-weight: normal; letter-spacing: normal; line-height: 20px; margin: 0; padding-bottom:10px;
+                                                                                text-align: left ">SME EDITION</h2>
+
+												<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+
+												<p>&nbsp;</p>
+
+												<div style="display: grid; ">
+												<div>
+												<div style="font-family:Lato;">
+												<p style="margin-top: 0px;"><a href=" " style="text-decoration: none; font-family: Ubuntu;color:#85c4c2;font-size:16px;">&gt; View our full case-conversation​</a></p>
+												</div>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td style="padding-bottom: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;width: 50%;">
+									<table align="right " border="0 " cellpadding="0 " cellspacing="0 " class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; border-collapse: collapse !important; display: inline; width: 100%; ">
+										<tbody>
+											<tr>
+												<td align="left " class="rightColumnContent" pardot-region="right_column_content " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; color: #505050; font-family: Lato; font-size: 14px; line-height: 21px; text-align: left; padding: 0 0 20px; " valign="top ">
+												<h1 style="color: #16a0c0 !important; display: block; font-family: Ubuntu; font-size: 36px; font-weight: normal; letter-spacing: normal; line-height: 36px; margin: 0; padding-bottom:10px;
+                                                    text-align: left ">Growing into marketing automation</h1>
+
+												<h2 style="color: #212331 !important; display: block; font-family: Ubuntu; font-size: 20px; font-weight: normal; letter-spacing: normal; line-height: 20px; margin: 0; padding-bottom:10px;
+                                                    text-align: left ">Subtitle</h2>
+
+												<p>Since personal approach is in our DNA, we understand the SME challenges like no other. Which is why we’ve expanded our customer segments towards SME’s. Belgium contains over 1,1 million companies that are scaled as SME’s. We see lots of possibilities for the rapid growth a lot of them are facing combined with the digital challenges they are facing in this changing world.</p>
+
+												<p>&nbsp;</p>
+
+												<div style="display: grid; ">
+												<div>
+												<div style="font-family:Lato; ">
+												<p style="margin-top: 0px; "><a href=" " style="text-decoration: none;font-family: Ubuntu;color:#85c4c2;font-size:16px;">&gt; Read more</a></p>
+												</div>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding-bottom: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;width: 50%; ">
+									<table align="right " border="0 " cellpadding="0 " cellspacing="0 " class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; border-collapse: collapse !important; display: inline; width: 100%; ">
+										<tbody>
+											<tr>
+												<td align="left " class="rightColumnContent" pardot-region="right_column_content " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; color: #505050; font-family: Lato; font-size: 14px; line-height: 21px; text-align: left; padding: 0 0 20px; " valign="top ">
+												<h3 style="color: #16a0c0 !important; display: block; font-family: Ubuntu; font-size: 36px; font-weight: normal; letter-spacing: normal; line-height: 36px; margin: 0; padding-bottom:10px;
+                                                    text-align: left ">Header Video</h3>
+												<iframe height="295px" src="https://www.youtube.com/embed/tgbNymZ7vqY?controls=0 " width="400px"></iframe></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<td style="padding-bottom: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;width: 50%;">
+									<table align="right " border="0 " cellpadding="0 " cellspacing="0 " class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; border-collapse: collapse !important; display: inline; width: 100%; ">
+										<tbody>
+											<tr>
+												<td align="left " class="rightColumnContent" pardot-region="right_column_content " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; color: #505050; font-family: Lato; font-size: 14px; line-height: 21px; text-align: left; padding: 0 0 20px; " valign="top ">
+												<h1 style="color: #16a0c0 !important; display: block; font-family: Ubuntu; font-size: 36px; font-weight: normal; letter-spacing: normal; line-height: 36px; margin: 0; padding-bottom:10px;
+                                                    text-align: left ">Topfeatures of 2020</h1>
+
+												<h2 style="color: #212331 !important; display: block; font-family: Ubuntu; font-size: 20px; font-weight: normal; letter-spacing: normal; line-height: 20px; margin: 0; padding-bottom:10px;
+                                                    text-align: left ">Subtitle</h2>
+
+												<p>&nbsp;</p>
+												Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim
+
+												<p>&nbsp;</p>
+
+												<p>&nbsp;</p>
+
+												<div style="display: grid; ">
+												<div>
+												<div style="font-family:Lato; ">
+												<p style="margin-top: 0px; "><a href=" " style="text-decoration: none;font-family: Ubuntu;color:#85c4c2;font-size:16px;">&gt; Read more</a></p>
+												</div>
+												</div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END COLUMNS --></td>
+					</tr>
+					<tr pardot-repeatable=" ">
+						<td align="left " class="bodyContent" pardot-data="" pardot-region="body_content00 " style="background: rgb(33, 35, 49); text-size-adjust: 100%; color: rgb(80, 80, 80); font-family: Helvetica; font-size: 16px; line-height: 24px; text-align: left; padding: 20px;" valign="top ">
+						<h1 style="color: #e83a57 !important; display: block; font-family: Ubuntu; font-size: 20px; font-style: normal; font-weight: bold; letter-spacing: normal; line-height: 26px; margin: 0; padding-bottom:10px; text-align:
+                                                    center ">Thank you for your trust</h1>
+
+						<h2 style="color: #f6f5f6 !important; display: block; font-family: Ubuntu; font-size: 16px; font-style: normal; font-weight: bold; letter-spacing: normal; line-height: 26px; margin: 0; padding-bottom:10px; text-align:
+                                                    center ">2020 was an abnormal year but we do want to thank each and every one of our clients for all the trust in these weird times. ​ So among many others, thank you:</h2>
+
+						<div><img align="left" alt="Engie " border="0" height="51" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n4b/879022/16043383248ZBR8fRC/Logo_Engie.png " style="width: 150px; float: left; padding-right: 30px; padding-left: 85px; padding-top: 20px; border-width: 0px; border-style: solid; height: 51px;" width="150"> <img align="left" alt="easypost " border="0" height="69" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n4d/879022/1604338348zE8kp5a4/Logo_easypost.png " style="width: 150px; float: left; padding-right: 30px; padding-top: 20px; border-width: 0px; border-style: solid; height: 69px;" width="150"> <img align="left" alt="mercedes " border="0" height="120" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n48/879022/16043382900CV4G5eE/Logo_Mercedes.png " style="width: 120px; height: 120px; float: left; border-width: 0px; border-style: solid;" width="120"> <img align="left" alt="vrt " border="0" height="104" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n4g/879022/1604338381shGZNsfE/Logo_VRT.png " style="width: 120px; height: 104px; float: left; padding-top: 4px; border-width: 0px; border-style: solid;padding-right: 30px;padding-left: 10px;" width="120"> <img align="left" alt="all " border="0" height="72" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n44/879022/1604338271lfr5vz2U/Logo_AAL.png " style="width: 150px; float: left; padding-right: 20px; padding-left: 0px; padding-top: 20px; border-width: 0px; border-style: solid; height: 72px;" width="150"></div>
+						</td>
+					</tr>
+					<tr>
+						<td align="center " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; " valign="top "><!-- BEGIN COLUMNS // -->
+						<table border="0 " cellpadding="20 " cellspacing="0 " id="templateColumns " style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-bottom-color: #CCCCCC; border-bottom-style:
+                                                    solid; border-bottom-width: 1px; border-collapse: collapse !important; border-top-color: #FFFFFF; border-top-style: solid; border-top-width: 1px; mso-table-lspace: 0pt; mso-table-rspace: 0pt " width="100% ">
+							<tbody>
+								<tr pardot-repeatable=" ">
+									<td align="left " style="padding-bottom: 0; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; " valign="top ">
+									<table align="left " border="0 " cellpadding="0 " cellspacing="0 " class="templateColumnContainer" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; border-collapse: collapse !important; display: inline; width: 100%; ">
+										<tbody>
+											<tr>
+												<td align="left " class="leftColumnContent" pardot-region="left_column_content " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:
+                                                    0pt; color: #505050; font-family: Helvetica; font-size: 14px; line-height: 21px; text-align: left; padding: 0 0 20px; " valign="top ">
+												<div>
+												<div style="float:left; width: 65%; ">
+												<div style=" width: 100%;float: left;font-family: Lato; ">
+												<p>Digitalization and data centralization matters since your customers and partners are online even more these days. Every year we notice that these processes are sometimes not yet optimally utilized. This is a missed opportunity that we can quickly resolve for you since we want you to focus even more on your core businesses.</p>
+
+												<p>Would you like to discuss this over a cup of coffee without any obligations? We would very much like to.</p>
+												</div>
+												</div>
+
+												<div style="float:right; width: 30%;padding-top: 25px; padding-top:40px; "><a href="https://thecustomerlink.be/en/contact/ "><img alt="button to conact Us " border="0 " height="333 " src="https://hello.thecustomerlink.be/l/879022/2020-11-03/22pzd/879022/16044184152oL4cJpW/Button.PNG
+                                                    " style="width: 290px; height: 48px; border-width: 0px; border-style: solid; " width="500 "></a></div>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // END COLUMNS --></td>
+					</tr>
+					<tr>
+						<td align="center " style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; " valign="top "><!-- BEGIN FOOTER // -->
+						<table bgcolor="#ffffff " border="0 " cellpadding="0 " cellspacing="0 " class="em_full_wrap" style="table-layout:fixed; " width="100% ">
+							<tbody>
+								<tr>
+									<td align="center " valign="top ">
+									<table align="center " border="0 " cellpadding="0 " cellspacing="0 " class="em_main_table" style="width:1024px; table-layout:fixed; " width="600 ">
+										<tbody>
+											<tr>
+												<td align="center " bgcolor="#212331 " class="em_aside15 " style="background-color:#16a0c0; padding:0px 26px; mso-table-lspace:0px; " valign="top " width="25% ">
+												<table border="0 " cellpadding="0 " cellspacing="0 " width="100% ">
+													<tbody>
+														<tr>
+															<td class="em_h30 " height="48 " style="height:48px; font-size:1px; line-height:1px; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                    " style="display:block; " width="1 "></td>
+														</tr>
+														<tr>
+															<td align="center " valign="top ">
+															<table align="center " border="0 " cellpadding="0 " cellspacing="0 ">
+																<tbody>
+																	<tr>
+																		<td align="center " class="em_clear " valign="middle "><a href="https://thecustomerlink.be " style="text-decoration:none; " target="_blank "><img alt="TCL | THE CUSTOMER LINK " border="0 " src="https://hello.thecustomerlink.be/l/879022/2020-10-01/2vx6/879022/7307/IMG_KMO_ftr_logo.png" style="display:block; max-width:130px; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; " width="130 "></a></td>
+																		<td class="em_clear " height="25 " style="width:30%; height:25px; " width="65 "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                    " style="display:block; " width="1 "></td>
+																		<td align="center " class="em_clear " style="font-family: 'Lato ', Arial, sans-serif; font-size:14px; line-height:25px; color:#FFFFFF;font-family:Ubuntu;
+                                                    " valign="middle "><a href="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c7d/879022/5755/IMG_TCL_Footer_Logo.png " style=" text-decoration:none;color:#FFFFFF; " target="_blank "><strong>www.thecustomerlink.be</strong></a><br>
+																		<a href="mailto:info@thecustomerlink.be " style=" text-decoration:none;color:#FFFFFF;font-family:Ubuntu;
+                                                    ">info@thecustomerlink.be</a><br>
+																		Tel: <a href="http://tel:+3234431223?elqTrackId=2a1e9ec32dc24934b907cea6be6199ad&amp;elqTrack=true " style="text-decoration:none; color:#FFFFFF;font-family:Ubuntu; ">+32 3 443 12 23</a></td>
+																		<td class="em_clear " height="25 " style="width:30%; height:25px; " width="100 "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif " style="display:block; " width="1 "></td>
+																		<td align="center " class="em_clear " valign="middle ">
+																		<table align="center " border="0 " cellpadding="0 " cellspacing="0 ">
+																			<tbody>
+																				<tr>
+																					<td align="center " valign="middle "><a href="https://www.linkedin.com/company/the-customer-link " style="text-decoration:none; " target="_blank "><img alt="in " border="0
+                                                    " src="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c8l/879022/5757/IMG_LinkedIn.png " style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; max-width:20px;
+                                                    " width="20 "></a></td>
+																					<td style="width:26px; " width="26 ">&nbsp;</td>
+																					<td align="center " valign="middle "><a href="https://www.instagram.com/thecustomerlink/ " style="text-decoration:none; " target="_blank "><img alt="insta " border="0
+                                                    " src="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c8z/879022/5759/IMG_Instagram.png " style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; max-width:20px;
+                                                    " width="20 "></a></td>
+																					<td style="width:26px; " width="26 ">&nbsp;</td>
+																					<td align="center " valign="middle "><a href="https://www.facebook.com/The-Customer-Link-105973504452307/ " style="text-decoration:none; " target="_blank "><img alt="insta
+                                                    " border="0 " src="https://hello.thecustomerlink.be/l/879022/2020-09-21/2dtl/879022/5889/IMG_facebook_logo_png_white.png " style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF;
+                                                    max-width:20px; " width="20 "></a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<tr>
+															<td class="em_h20 " height="36 " style="height:36px; font-size:1px; line-height:1px; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                    " style="display:block; " width="1 "></td>
+														</tr>
+														<tr>
+															<td align="left " class="em_center " style="font-family: 'Lato ', Arial, sans-serif; font-size:8px; line-height:10px; color:#f6f5f6; " valign="top "><a href="{{Unsubscribe}}" style="text-decoration:underline; color:#f6f5f6; " target="_blank "><span style="text-decoration:underline; color:#f6f5f6; ">Unsubscribe from TCL</span></a></td>
+														</tr>
+														<tr>
+															<td align="left " class="em_center " style="font-family: 'Lato ', Arial, sans-serif; font-size:8px; line-height:10px; color:#f6f5f6; " valign="top "><a href="https://go.pardot.com/emailPreference/e/epc/879022/hflZYQsN1gw-AlOANA3LI6rLhRq9DX_CPJ5od1akR84/481 " style="text-decoration:underline; color:#f6f5f6;
+                                                    " target="_blank "><span style="text-decoration:underline; color:#f6f5f6; ">Change your preferences</span></a></td>
+														</tr>
+														<tr>
+															<td class="em_h30 " height="22 " style="height:22px; font-size:1px; line-height:1px; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                    " style="display:block; " width="1 "></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td class="em_hide " style="line-height:1px;min-width:600px;background-color:#212331; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                    " style="max-height:1px; min-height:1px; display:block; width:600px; min-width:600px; " width="600 "></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+							<!-- // END FOOTER -->
+						</table>
+						<!-- // END TEMPLATE --></td>
+					</tr>
+				</tbody>
+			</table>
+			<br>
+			<!--
+          This email was originally designed by the wonderful folks at MailChimp and remixed by Pardot.
+          It is licensed under CC BY-SA 3.0
+        --></td>
+		</tr>
+	</tbody>
+</table>
+</body>
+
+</html>

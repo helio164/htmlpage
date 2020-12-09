@@ -1,0 +1,627 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <!-- Facebook sharing information tags -->
+    <meta property="og:title" content="{{Subject}}" />
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
+    <title>{{Subject}}</title>
+</head>
+    <body bgcolor="#FAFAFA">
+        <style type="text/css">
+            #outlook a {
+                padding: 0;
+            }
+            
+            .body {
+                width: 100% !important;
+                -webkit-text-size-adjust: 100%;
+                -ms-text-size-adjust: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            
+            .ExternalClass {
+                width: 100%;
+            }
+            
+            .ExternalClass,
+            .ExternalClass p,
+            .ExternalClass span,
+            .ExternalClass font,
+            .ExternalClass td,
+            .ExternalClass div {
+                line-height: 100%;
+            }
+            
+            img {
+                outline: none;
+                text-decoration: none;
+                -ms-interpolation-mode: bicubic;
+            }
+            
+            a img {
+                border: none;
+            }
+            
+            p {
+                margin: 1em 0;
+            }
+            
+            table td {
+                border-collapse: collapse;
+            }
+            /* hide unsubscribe from forwards*/
+            
+            blockquote .original-only,
+            .WordSection1 .original-only {
+                display: none !important;
+            }
+            
+            ul {
+                list-style: none;
+            }
+            
+            li {
+                padding-left: 1em;
+                text-indent: -.7em;
+            }
+            
+            .list {
+                font-family: Lato !important;
+            }
+            
+            .list::before {
+                font-size: 20px !important;
+                content: "▪ " !important;
+                color: #16a0c0 !important;
+            }
+            
+            .list2 {
+                font-weight: normal !important;
+                font-family: Lato;
+                text-indent: 0em;
+                padding-left: 0em;
+            }
+            .list2:before {
+                font-size: 20px !important;
+                content: "▪ " !important;
+                color: #16a0c0 !important;
+            }
+            
+            .Ul2 {
+                padding-inline-start: 0px !important;
+            }
+    
+            .spacer{
+                padding-top: 15px;padding-bottom: 10px; 
+            }
+            
+            @media only screen and (max-width: 480px) {
+                body,
+                table,
+                td,
+                p,
+                a,
+                li,
+                blockquote {
+                    -webkit-text-size-adjust: none !important;
+                }
+                /* Prevent Webkit platforms from changing default text sizes */
+                body {
+                    width: 100% !important;
+                    min-width: 100% !important;
+                }
+                /* Prevent iOS Mail from adding padding to the body */
+                #bodyCell {
+                    padding: 10px !important;
+                }
+                #templateContainer {
+                    max-width: 600px !important;
+                    width: 100% !important;
+                }
+                h1 {
+                    font-size: 24px !important;
+                    line-height: 100% !important;
+                }
+                h2 {
+                    font-size: 20px !important;
+                    line-height: 100% !important;
+                }
+                h3 {
+                    font-size: 18px !important;
+                    line-height: 100% !important;
+                }
+                h4 {
+                    font-size: 16px !important;
+                    line-height: 100% !important;
+                }
+                #templatePreheader {
+                    display: none !important;
+                }
+                /* Hide the template preheader to save space */
+                #headerImage {
+                    height: auto !important;
+                    max-width: 600px !important;
+                    width: 100% !important;
+                }
+                .headerContent {
+                    font-size: 20px !important;
+                    line-height: 125% !important;
+                }
+                #bodyImage {
+                    height: auto !important;
+                    max-width: 560px !important;
+                    width: 100% !important;
+                }
+                .bodyContent {
+                    font-size: 18px !important;
+                    line-height: 125% !important;
+                }
+                .templateColumnContainer {
+                    display: block !important;
+                    width: 100% !important;
+                }
+                .columnImage {
+                    height: auto !important;
+                    max-width: 260px !important;
+                    width: 100% !important;
+                }
+                .leftColumnContent {
+                    font-size: 16px !important;
+                    line-height: 125% !important;
+                }
+                .rightColumnContent {
+                    font-size: 16px !important;
+                    line-height: 125% !important;
+                }
+                .footerContent {
+                    font-size: 14px !important;
+                    line-height: 115% !important;
+                }
+                .footerContent a {
+                    display: block !important;
+                }
+                /* Place footer social and utility links on their own lines, for easier access */
+                .images1 {
+                    width: 150px;
+                    height: 150px;
+                    border-width: 0px;
+                    border-style: solid;
+                    float: left;
+                    padding-right: 20px;
+                }
+                ul {
+                    list-style: none;
+                }
+                
+                li {
+                    padding-left: 1em;
+                    text-indent: -.7em;
+                }
+                
+                .list {
+                    font-family: Lato !important;
+                }
+                
+                .list::before {
+                    font-size: 20px !important;
+                    content: "▪ " !important;
+                    color: #16a0c0 !important;
+                }
+                
+                .list2 {
+                    font-weight: normal !important;
+                    font-family: Lato;
+                    text-indent: 0em;
+                    padding-left: 0em;
+                }
+                .list2:before {
+                    font-size: 20px !important;
+                    content: "▪ " !important;
+                    color: #16a0c0 !important;
+                }
+                
+                .Ul2 {
+                    padding-inline-start: 0px !important;
+                }
+        
+                #spacer{
+                    padding-top: 15px;
+                    padding-bottom: 10px; 
+                }
+            }
+    </style>
+        <table>
+            <tbody>
+                <tr>
+                    <td> 
+                        <img alt=" " border="0" width="430" height="1" src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif" >
+                    </td>
+                    <td width="1024">
+                        <!-- // BEGIN HEADER -->
+                        <table  width="1024" cellspacing="0" cellpadding="0">
+                            <tbody>
+                                <tr width="1024">
+                                    <td colspan="1">
+                                        <h1 style="color: #202020 !important; display: block; font-family: Helvetica; font-size: 26px; font-style: normal;float: left;width: 50%; font-weight: bold; letter-spacing: normal; line-height: 26px; margin: 0; padding-bottom:10px; text-align: left;">
+                                            <a href="https://thecustomerlink.be/"><img alt="" border="0" height="104" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22m3v/879022/1604318536rVjQaAVp/logo_horizontaal_01_kopie.png" style="width: 300px; height: 104px; border-width: 0px; border-style: solid;" width="300"></a>​​​​</h1>
+                                    </td>
+                                    <td colspan="1" align="middle" width="100">
+                                        <p><a href="https://thecustomerlink.be/en/salesforce-implementation-partner/" style="font-family: ubuntu;text-decoration: none; font-size: 21px; color: #212331;">About</a></p>
+                                    </td>
+                                    <td colspan="1" align="middle" width="100">
+                                        <p><a href="https://thecustomerlink.be/en/contact" style="font-family: ubuntu;text-decoration: none;font-size: 21px; color: #212331;">Contact</a></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- // END HEADER -->
+                        <!-- // BEGIN DESCRIPRION 1 -->
+                        <table width="1024" style="margin-left:auto; margin-right:auto;">
+                            <tbody>
+                                <tr>
+                                    <td colspan="3" align="middle" cellpadding="0">
+                                        <img alt="" border="0" width="1024" height="340" src="https://hello.thecustomerlink.be/l/879022/2020-11-10/2jgml/879022/1605010866UjjH5T5V/new_header_TCL_update_mail.JPG">
+                                    </td>    
+                                </tr>
+                                <tr>
+                                    <td colspan="2" cellpadding="0"><p style="font-family:Ubuntu">As a proud Salesforce Silver Partner, we at The Customer Link worked hard this year.<br>
+                                        Despite Corona and our changing habits, society, lockdowns, home offices,…<br>
+                                        we’re still proud of our digital implementations for our clients.<br>
+                                        As well as of our own team who’ve tackled this pandemic with true flexibility and used their time wisely to study and obtained some new Salesforce Certificates.</p>
+                                    <p>With this newsletter we would love to spread our positivity, enthusiasm and drive with you as well!</p></td>
+                                    <td colspan="1" width="100" align="middle" cellpadding="0"><img alt="" border="0" width="150" height="150" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n22/879022/1604334763pPlodlOV/icon_directions.png"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- // END DESCRIPRION 1 -->
+                        <!-- // BEGIN CUSTOMERS -->
+                        <table width="1024" style="background: rgb(33, 35, 49); margin-left:auto; margin-right:auto;">
+                            <tbody>
+                                <tr>
+                                    <td colspan="8" align="middle">
+                                        <h1 style="color: #f6f5f6 !important;">Some of our 2020 clients</h1>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="1">
+                                        <img align="left" alt="Engie" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n4b/879022/16043383248ZBR8fRC/Logo_Engie.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="easypost" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n4d/879022/1604338348zE8kp5a4/Logo_easypost.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="Soprema" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-10/2jh4q/879022/1605021607kGpFz2z3/Soprema_Silver.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="cesi" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-10/2jh42/879022/1605021532ZmqAQkpG/CESI_silver.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="liedetectors" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-10/2jh4s/879022/1605021633OaPYS3hQ/Lie_Detectors.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="all" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n44/879022/1604338271lfr5vz2U/Logo_AAL.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="jnj" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-30/43n1b/879022/1606737021WtoGHWBv/Logo_Janssen.png"/>
+                                    </td>
+                                    <td colspan="1">
+                                        <img align="left" alt="VUB" border="0" width="110" height="auto" src="https://hello.thecustomerlink.be/l/879022/2020-11-30/43n1n/879022/1606739219eH1CAaHB/VUB_2.png"/>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="8" align="middle">
+                                        <img alt=" " border="0 " height="20" src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif" style="display:block; " width="1">
+                                    </td>
+                                </tr
+                            </tbody>
+                        </table>
+                        <!-- // END CUSTOMERS -->
+                        <!-- // BEGIN DESCRIPRION 2 -->
+                        <table width="1024" style="margin-left:auto; margin-right:auto;">
+                            <tbody>
+                                <tr>
+                                    <td  colspan="2" align="middle" width="341">
+                                        <h1>Classic to Lightning​</h1>
+                                    </td>
+                                    <td colspan="2" align="middle" width="341">
+                                        <h1>VLOCITY Partnership</h1>
+                                    </td>
+                                    <td colspan="2" align="middle" width="341">
+                                        <h1>SME focussed</h1>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td  colspan="2" align="left" width="341">
+                                        <p>We’ve finalized our Lightning project for Johnson & Johnson this year. After an integration of 1 year led by 10 TCL-people, we can proudly say that we’ve done the biggest migration from Classic to Lightning in Europe!</p>
+                                    </td>
+                                    <td colspan="2" align="left" width="341">
+                                        <p>Since January 2020, TCL is a Vlocity partner. As Engie’s preferred partner we want to co-invest in this technology by training our whole team and we’ve obtained our certificates.!</p>
+                                    </td>
+                                    <td colspan="2" align="left" width="341">
+                                        <p>As personal approach is in our DNA, we understand the SME challenges like no other. Which is why we’ve expanded our customer segments towards SME’s. 
+                                            <span style="font-weight: bold;">Belgium contains over 1,1 million companies that are scaled as SME’s</span>. We see lots of possibilities for a rapid growth a lot of them are facing combined with the digital challenges they are facing in this changing world</p>
+                                    </td>
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+                        <!-- // END DESCRIPRION 2 -->
+                        <!-- // BEGIN DESCRIPRION 3 -->
+                        <table width="1024" style="margin-left:auto; margin-right:auto;">
+                            <body>
+                                <tr>
+                                    <td width="341">
+                                        <table colspan="2">
+                                            <tbody>
+                                                <tr>
+                                                    <td><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n2j/879022/16043368989Dhp5Rl2/icon_brain.png"/></td>
+                                                    <td>10 employees assigned</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>   
+                                    <td>
+                                        <table colspan="0">
+                                            <tbody>
+                                                <tr>
+                                                    <td  rowspan="4"><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n2j/879022/16043368989Dhp5Rl2/icon_brain.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>4 certified Vlocity-employees</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8 people trained in 2020</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="341">
+                                        <table colspan="2">
+                                            <tbody>
+                                                <tr>
+                                                    <td  rowspan="4"><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n22/879022/1604334763pPlodlOV/icon_directions.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Budget magnitude: 1 million €​</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Duration: 1 year</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                    <td width="341">
+                                        <table colspan="2">
+                                            <tbody>
+                                                <tr>
+                                                    <td  rowspan="4"><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n22/879022/1604334763pPlodlOV/icon_directions.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>January 2020: start Partnership</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>official Vlocity partner</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>   
+                                </tr>
+                                <tr>
+                                    <td width="341">
+                                        <table colspan="2">
+                                            <tbody>
+                                                <tr>
+                                                    <td  rowspan="4"><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n2g/879022/1604336871inM6Cnp0/icon_presentation2.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Customer Care: 4,4/5​</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>5/5 for Salesforce knowledge to their needs​</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>5/5 for engagement of our resources</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                    <td width="341">
+                                        <table colspan="2">
+                                            <tbody>
+                                                <tr>
+                                                    <td  rowspan="4"><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n2g/879022/1604336871inM6Cnp0/icon_presentation2.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Preferred partner for Engie</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td> 
+                                    <td width="341">
+                                        <table colspan="2">
+                                            <tbody>
+                                                <tr>
+                                                    <td  rowspan="4"><img width="50" height="50" src="https://hello.thecustomerlink.be/l/879022/2020-11-02/22n2g/879022/1604336871inM6Cnp0/icon_presentation2.png"/></td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Our own SME-accelerator: Papaya Invoice and PM-tool</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>     
+                                </tr>
+                            </body>
+                        </table>
+                        <!-- // END DESCRIPRION 3 -->
+                        <!-- // BEGIN DESCRIPRION 4 -->
+                        <table border="0"  width="1024" style="margin-left:auto; margin-right:auto;">
+                            <tbody>
+                                <tr>
+                                    <td rowspan="1">
+                                        <h1 style="font-family: Ubuntu;color:#16a0c0; font-size: 36px; float:left;line-height: 36px; ">PARDOT IMPLEMENTATION</h1>
+                                    </td>
+                                    <td rowspan="4" align="middle">
+                                        <img alt=" " border="0 " height="333"  width="500" src="https://hello.thecustomerlink.be/l/879022/2020-11-03/22ph2/879022/1604400582lecUUthJ/TheCustomerLink_190912_161010_567A6716_TD_kopie.jpg">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h2 style="font-family: Ubuntu;color:#212331; font-size: 20px; float:left; margin-top:0px; ">LET’S GET THINGS AUTOMATED</h2>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p style="font-family: Lato; ">After being completely blown away by the possibilities of the Marketing Cloud, we’ve immersed ourselves into the Pardot functionalities. We’ve implemented our own TCL marketing automation processes and supported new clients successfully in their marketing digitalization. At this point, we’re the preferred and only Pardot-partner for Cesi and Soprema.<br>
+                                            &nbsp;</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <ul>
+                                            <li style="font-family: Lato; " class="list ">Cesi already implemented Pardot a year ago, they relied on another salesforce implementation partner for this. At the end of the day Cesi didn’t know how to use it to its full potential. That’s where we as TCL come in. We’re focusing on their data model, CRM sync, subscription policy, campaign design, engagement studio, template set-up and trainings.</li>
+                                            <li style="font-family: Lato; " class="list ">As an international organization, Soprema implemented Pardot 6 months ago by an international partner. Their EMEA &amp; BENELUX marketing team wanted to personalize their integration, in which we help them. We offer functional marketing support and deal with their strategic implementation. In doing so, we cover data modelling, campaign design, CRM sync, subscription policy, …</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- // END DESCRIPRION 4 -->
+                        <!-- // BEGIN DESCRIPRION 5 -->
+                        <table border="0"  width="1024" style="margin-left:auto; margin-right:auto;">
+                            <tbody>
+                                <tr>
+                                    <td rowspan="4" align="middle">
+                                        <img alt=" " border="0 " width="500" height="333" src="https://hello.thecustomerlink.be/l/879022/2020-09-01/qhk/879022/3684/TheCustomerLink_190912_155701_567A6599_TD___Copy.jpg"/>
+                                    </td>
+                                    <td rowspan="1">
+                                        <h1 style="font-family: Ubuntu;color:#16a0c0; font-size: 36px; ">Supporting non-profits</h1>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p style="">The same goes for nonprofits, each organization faces their own challenges. To strive for bigger impact a lot of them want to digitalize an centralize all their data. In our 3th and 4th quarter we’ve delivered successful projects for AAL and Lie Detectors.<strong> Starting February 2021, we will be an official non-profit partner.</strong></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <ul class="Ul2 ">
+                                            <li style="list-style: none;"><strong><em>AAL</em></strong></li>
+                                            <li class="list2">Optimizes elderly care through innovation.</li>
+                                            <li class="list2">What: Sales Cloud, Service Cloud and a community portal</li>
+                                            <li class="list2">Budget magnitude: 80.000 €</li>
+                                            <li class="list2">Duration: February – June 2020</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p style=""><strong><em>Lie detectors</em></strong></p>
+                                        <ul class="Ul2 ">
+                                            <li class="list2">Helps teenagers learn to spot and resist the growing volume of manipulative media</li>
+                                            <li class="list2">What: Sales Cloud, Service Cloud</li>
+                                            <li class="list2">Budget magnitude: 50.000 €</li>
+                                            <li class="list2">Duration: February – August 2020</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- // END DESCRIPRION 5 -->
+                        <!-- // BEGIN FOOTER -->
+                        <table bgcolor="#ffffff " border="0 " cellpadding="0 " cellspacing="0 " class="em_full_wrap" style="table-layout:fixed; " width="1024 ">
+                            <tbody>
+                                <tr>
+                                    <td align="center " valign="top ">
+                                    <table align="center " border="0 " cellpadding="0 " cellspacing="0 " class="em_main_table" style="width:1024px; table-layout:fixed;margin-left:auto; margin-right:auto; " width="600 ">
+                                        <tbody>
+                                            <tr>
+                                                <td align="center " bgcolor="#212331 " class="em_aside15 " style="background-color:#212331; padding:0px 26px; mso-table-lspace:0px; " valign="top " width="25% ">
+                                                <table border="0 " cellpadding="0 " cellspacing="0 " width="100% ">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="em_h30 " height="48 " style="height:48px; font-size:1px; line-height:1px; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                                            " style="display:block; " width="1 "></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center " valign="top ">
+                                                            <table align="center " border="0 " cellpadding="0 " cellspacing="0 ">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center " class="em_clear " valign="middle "><a href="https://thecustomerlink.be " style="text-decoration:none; " target="_blank "><img alt="TCL | THE CUSTOMER LINK " border="0 " src="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c7d/879022/5755/IMG_TCL_Footer_Logo.png" style="display:block; max-width:130px; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; " width="130 "></a></td>
+                                                                        <td class="em_clear " height="25 " style="width:30%; height:25px; " width="65 "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                                            " style="display:block; " width="1 "></td>
+                                                                        <td align="center " class="em_clear " style="font-family: 'Lato', Arial, sans-serif; font-size:14px; line-height:25px; color:#FFFFFF;font-family:Ubuntu;
+                                                                            " valign="middle "><a href="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c7d/879022/5755/IMG_TCL_Footer_Logo.png " style=" text-decoration:none;color:#FFFFFF;
+                                                                            " target="_blank "><strong>www.thecustomerlink.be</strong></a><br>
+                                                                        <a href="mailto:info@thecustomerlink.be " style=" text-decoration:none;color:#FFFFFF;font-family:Ubuntu; ">info@thecustomerlink.be</a><br>
+                                                                        Tel: <a href="" style="text-decoration:none; color:#FFFFFF;font-family:Ubuntu; ">+32 3 443 12 23</a></td>
+                                                                        <td class="em_clear " height="25 " style="width:30%; height:25px; " width="100 "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif " style="display:block;
+                                                                            " width="1 "></td>
+                                                                        <td align="center " class="em_clear " valign="middle ">
+                                                                        <table align="center " border="0 " cellpadding="0 " cellspacing="0 ">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td align="center " valign="middle "><a href="https://www.linkedin.com/company/the-customer-link " style="text-decoration:none; " target="_blank "><img alt="in " border="0 " src="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c8l/879022/5757/IMG_LinkedIn.png
+                                                                            " style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; max-width:20px; " width="20 "></a></td>
+                                                                                    <td style="width:26px; " width="26 ">&nbsp;</td>
+                                                                                    <td align="center " valign="middle "><a href="https://www.instagram.com/thecustomerlink/ " style="text-decoration:none; " target="_blank "><img alt="insta " border="0 " src="https://hello.thecustomerlink.be/l/879022/2020-09-18/2c8z/879022/5759/IMG_Instagram.png
+                                                                            " style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; max-width:20px; " width="20 "></a></td>
+                                                                                    <td style="width:26px; " width="26 ">&nbsp;</td>
+                                                                                    <td align="center " valign="middle "><a href="https://www.facebook.com/The-Customer-Link-105973504452307/ " style="text-decoration:none; " target="_blank "><img alt="insta " border="0 " src="https://hello.thecustomerlink.be/l/879022/2020-09-21/2dtl/879022/5889/IMG_facebook_logo_png_white.png
+                                                                            " style="display:block; font-family:Arial, sans-serif; font-size:20px; line-height:25px; color:#FFFFFF; max-width:20px; " width="20 "></a></td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="em_h20 " height="36 " style="height:36px; font-size:1px; line-height:1px; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                                            " style="display:block; " width="1 "></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left " class="em_center " style="font-family: 'Lato', Arial, sans-serif; font-size:8px; line-height:14px; color:#9d9d9d;font-size: 12px; " valign="top "><a href="{{Unsubscribe}}" style="text-decoration:underline;
+                                                                            color:#9d9d9d; " target="_blank "><span style="text-decoration:underline; color:#9d9d9d; ">Unsubscribe from TCL</span></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="left " class="em_center " style="font-family: 'Lato', Arial, sans-serif; font-size:8px; line-height:10px;font-size: 12px; color:#9d9d9d; " valign="top "><a href="https://hello.thecustomerlink.be/TCL-Subscriptions?epc_hash=hflZYQsN1gw-AlOANA3LI6rLhRq9DX_CPJ5od1akR84" style="text-decoration:underline; color:#9d9d9d; " target="_blank "><span style="text-decoration:underline;
+                                                                            color:#9d9d9d; ">Change your preferences</span></a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="em_h30 " height="22 " style="height:22px; font-size:1px; line-height:1px; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                                            " style="display:block; " width="1 "></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="em_hide " style="line-height:1px;min-width:600px;background-color:#212331; "><img alt=" " border="0 " height="1 " src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif
+                                                                            " style="max-height:1px; min-height:1px; display:block; width:600px; min-width:600px; " width="600 "></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <!-- // END FOOTER --> 
+                    </td>
+                   <!--  <td> 
+                        <img alt=" " border="0" width="auto" height="1" src="https://hello.thecustomerlink.be/l/879022/2020-09-30/2txq/879022/7185/_82aea0d3_4e12_4cca_b2ee_408cbb6019c0__spacer.gif" >
+                    </td> -->
+                </tr>
+            </tbody>
+        </table>
+        
+    </body>
+</html>
